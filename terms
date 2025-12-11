@@ -1,105 +1,99 @@
-# Terms of Service
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Terms of Service – Gifted Hands Innovation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #050608;
+      color: #f5f5f5;
+      line-height: 1.6;
+      padding: 2rem 1.25rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    a { color: #00e0ff; }
+    h1, h2 { margin-bottom: 0.5rem; }
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.2rem; margin-top: 1.5rem; }
+    p { margin-bottom: 0.75rem; color: #d0d0d0; }
+    hr { border: 0; border-top: 1px solid #222; margin: 1.5rem 0; }
+    small { color: #999; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <small>Last updated: January 2025</small>
+  <hr />
 
-_Last updated: January 2025_
+  <h2>1. Purpose of This Website</h2>
+  <p>
+    Gifted Hands Innovation is an informational website that showcases car accessories and links to
+    trusted third-party platforms such as Amazon. We do not sell products directly or handle payments.
+  </p>
 
-Welcome to Gifted Hands Innovation (“we”, “our”, “the website”).  
-By accessing or using this website, you agree to these Terms of Service.  
-If you do not agree, please discontinue use of the website.
+  <h2>2. Affiliate Disclosure</h2>
+  <p>
+    Some links on this website may be affiliate links. As an Amazon Associate, we may earn a commission
+    from qualifying purchases. This does not increase the price you pay.
+  </p>
 
----
+  <h2>3. No Warranties</h2>
+  <p>
+    We do not guarantee the accuracy, completeness, or availability of any product information listed
+    or linked to on this website. Product details, pricing, and availability may change at any time
+    without notice.
+  </p>
 
-## 1. Purpose of This Website
-Gifted Hands Innovation is an informational website showcasing car accessories and linking to trusted third-party platforms such as Amazon.
+  <h2>4. Third-Party Websites</h2>
+  <p>
+    We link to third-party websites such as Amazon. We are not responsible for their content, privacy
+    practices, or business policies. All purchases, returns, and customer service matters are handled
+    directly by the third-party seller.
+  </p>
 
-We do not:
+  <h2>5. Limitation of Liability</h2>
+  <p>
+    By using this website, you agree that Gifted Hands Innovation is not liable for any damages, losses,
+    or issues arising from:
+  </p>
+  <p>
+    • Use of any product purchased via our links<br/>
+    • Errors or omissions in product information<br/>
+    • Actions taken based on website content<br/>
+    • Problems encountered on third-party websites
+  </p>
 
-- Sell products directly  
-- Handle transactions  
-- Provide warranties for items listed  
-- Collect personal information  
+  <h2>6. Intellectual Property</h2>
+  <p>
+    All content on this website, including text, layout, and branding (except third-party product images
+    sourced from retailers), is the property of Gifted Hands Innovation and may not be copied or reused
+    without permission.
+  </p>
 
-Our goal is to help users discover products that may improve their driving experience.
+  <h2>7. Prohibited Use</h2>
+  <p>You agree not to:</p>
+  <p>
+    • Attempt to break or bypass website security<br/>
+    • Scrape or reuse content without permission<br/>
+    • Misuse affiliate links<br/>
+    • Use the website for any fraudulent or illegal activity
+  </p>
 
----
+  <h2>8. Changes to These Terms</h2>
+  <p>
+    We may update these Terms of Service from time to time. Continued use of the website after changes
+    are posted constitutes acceptance of the updated terms.
+  </p>
 
-## 2. Affiliate Disclosure
-Gifted Hands Innovation participates in the Amazon Associates Program.
+  <h2>9. Contact</h2>
+  <p>
+    For questions about these Terms, please contact:<br/>
+    <strong>giftedhandsinnovation@gmail.com</strong>
+  </p>
 
-This means:
-
-- Some links may be affiliate links  
-- We may earn a small commission on purchases  
-- This does **not** affect your purchase price  
-
-Amazon handles all checkout, shipping, returns, and customer service.
-
----
-
-## 3. Content Accuracy
-We try our best to ensure all information is accurate, but:
-
-- Prices may change  
-- Products may become unavailable  
-- Third-party information may update or expire  
-
-We do not guarantee that product details or images are always up to date.
-
----
-
-## 4. Third-Party Websites
-Our site links to Amazon and potentially other retailers.
-
-We are **not responsible** for:
-
-- Their content  
-- Their pricing  
-- Their privacy policies  
-- Their business practices  
-
-Users should review the respective policies of any external websites they visit.
-
----
-
-## 5. No Liability
-By using this website, you agree that Gifted Hands Innovation is not liable for:
-
-- Damages caused by using any linked products  
-- Issues arising from third-party websites  
-- Incorrect product information  
-- Losses from purchases or returns  
-
-All purchases are handled by Amazon or the respective seller.
-
----
-
-## 6. Intellectual Property
-All website content, including text, layout, brand name, and images (unless sourced from Amazon), is the property of Gifted Hands Innovation.
-
-You may not copy, republish, or redistribute our content without permission.
-
----
-
-## 7. Prohibited Use
-You agree **not** to:
-
-- Break or bypass website security  
-- Scrape or download website content for unauthorized use  
-- Misuse affiliate links  
-- Use the website for harmful or illegal purposes  
-
----
-
-## 8. Changes to These Terms
-We may update these Terms at any time.  
-The “Last Updated” date will always reflect the latest version.
-
-Continued use of the website means you accept any updated terms.
-
----
-
-## 9. Contact Information
-If you have questions about these Terms, contact:
-
-**Email:** giftedhandsinnovation@gmail.com
-
-Thank you for using Gifted Hands Innovation.
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
