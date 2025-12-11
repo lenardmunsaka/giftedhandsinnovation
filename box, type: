@@ -1,0 +1,56 @@
+SECURITY.md
+# Security Policy
+
+## Overview
+Gifted Hands Innovation is committed to maintaining the security and integrity of our website and ensuring a safe browsing experience for all users. Our site displays car accessory recommendations and may include affiliate links to third-party retailers such as Amazon. We do not collect sensitive user information, but we still take website security seriously.
+
+---
+
+## Supported Versions
+Because this is a static website hosted on GitHub Pages, only the latest live version is supported.
+
+| Version     | Supported |
+|-------------|-----------|
+| Latest      | Yes       |
+| Older builds| No        |
+
+---
+
+## Reporting a Vulnerability
+If you discover any vulnerability, broken link behavior, or suspicious activity related to our website, please report it responsibly.
+
+### Please include:
+- A clear description of the issue  
+- Steps to reproduce it  
+- Any screenshots or sample code  
+- What you believe the risk may be  
+
+### Report to:
+**Email:** giftedhandsinnovation@gmail.com  
+(If you don’t have this email yet, we can create a Gmail for your brand.)
+
+We will make every effort to acknowledge your report within **72 hours** and resolve confirmed issues as quickly as possible.
+
+---
+
+## Scope of Security Testing
+### In-Scope
+- HTML, CSS, JavaScript used on this website  
+- GitHub Pages hosting configuration  
+- Broken redirects or unsafe external links  
+- Cross-site scripting (XSS) vulnerabilities  
+- Incorrect or unsafe use of Amazon affiliate links  
+
+### Out-of-Scope
+- Issues on Amazon or any third-party websites  
+- Browser-side extensions or modifications  
+- Network issues unrelated to our website  
+- Denial-of-service testing or spam attacks  
+
+---
+
+## Responsible Disclosure
+We ask that all security findings be reported **privately first**, and not publicly disclosed until they are reviewed and resolved.  
+We appreciate all efforts to improve the safety and reliability of our website.
+
+Thank you for helping us maintain a secure platform.
